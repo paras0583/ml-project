@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import sys
 from dataclass import dataclass
-from sklearn.compose ColumnTranformer
+from sklearn.compose import ColumnTransformer
 from sklearn.impute SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing OneHotEncoder,StandardScalar
